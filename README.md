@@ -8,4 +8,5 @@ I watch it again in order to understand better the c# language. I take short not
 ## Credits
 
 - [@gncyyldz](https://github.com/gncyyldz) Thank you for being the best instructor and sharing your knowledge.
-- ![](https://www.youtube.com/playlist?list=PLQVXoXFVVtp3e_urGZcMNAHx2Eo4Rm5Xk)
+- [YouTube Playlist](https://www.youtube.com/playlist?list=PLQVXoXFVVtp3e_urGZcMNAHx2Eo4Rm5Xk)
+
