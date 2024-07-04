@@ -28,4 +28,26 @@ public class CapturedVariables
      * Therefore the stack frame associated with an asynchronous method cannot be deallocated in the way I described when the method returns to work asynchronously; the compiler has to do some work to achieve this.
      * This also applies to iterators – iterators and async methods share similar implementation details.
      */
+
+    public static void Main()
+    {
+      int x = 5;
+      Action<int> action = (y) => { Console.WriteLine(x + y); };
+      action(3); // Prints 8
+      x = 7;
+      action(3); // Prints 10
+      // Note: x is captured by value, not by reference.
+      // In this case, when we change x inside the anonymous function, it does not affect the captured value of x in the outer scope.
+      // If you wanted to capture x by reference, you would use the ref keyword:
+      // Action<int> actionRef = (ref int y) => { Console.WriteLine(x + y); };
+      // actionRef(3); // Prints 8
+      // x = 7;
+      // actionRef(3); // Prints 10
+      // Now, when we change x inside the anonymous function, it does affect the captured value of x in the outer scope.
+      // In this case, the compiler will generate a class to hold the captured variable,
+      // and it will create an instance of this class inside the containing method and copy the required local variable into fields on that object.
+      // The code inside the anonymous function then uses the fields on that class.
+      // This is why you can capture variables from the outer scope when you declare an anonymous function.
+      
+    }
 }

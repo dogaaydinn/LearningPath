@@ -1,6 +1,6 @@
 namespace LearnProgramming.Memory;
 
-public class Heap_Stack
+public class HeapStack
 {
     //Stack nedir?
     //İçerisinde değer türlü değişkenleri ve değerleri tutan bir yapıdır.

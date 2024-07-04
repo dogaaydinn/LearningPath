@@ -1,6 +1,7 @@
-namespace LearnProgramming.Variable;
-
-public class GlobalVariable
+namespace LearnProgramming.Variable.GlobalVariable
 {
+    public class GlobalVariable
+    {
     
+    }
 }

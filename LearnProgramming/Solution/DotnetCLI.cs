@@ -1,6 +1,6 @@
-namespace LearnProgramming;
+namespace LearnProgramming.Solution;
 
-public class DotnetCLI
+public class DotnetClı
 {
     /*
      * Dotnet CLI, komut satırı arayüzü tabanlı bir yazılım geliştirme aracıdır. Proje oluşturma, güncelleme, derleme ve yayınlama gibi işlemleri kolaylaştırır.

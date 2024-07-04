@@ -1,4 +1,4 @@
-namespace LearnProgramming;
+namespace LearnProgramming.ProgramStructure;
 
 public class TopLevelStatements
 {
@@ -15,4 +15,5 @@ public class TopLevelStatements
      *
      * Top-level statements özelliği microservis uygulamalarda servis gelişimi açısından hız kazandırıcı bir niteliğe sahiptir
      */
+    
 }

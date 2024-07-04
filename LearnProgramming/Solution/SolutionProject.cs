@@ -1,4 +1,4 @@
-namespace LearnProgramming;
+namespace LearnProgramming.Solution;
 
 public class SolutionProject
 {

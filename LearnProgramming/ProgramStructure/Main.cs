@@ -1,4 +1,4 @@
-namespace LearnProgramming;
+namespace LearnProgramming.ProgramStructure;
 
 public class Main
 {
@@ -24,4 +24,5 @@ public class Main
     /*String[] args Parametresi Nedir?
      * “string[] args” kısmı, bu anahtarın programın hangi parametrelerle çalışacağını söyler. Yani, sizin evdeki anahtarın hangi kapıları açabileceğini söylemesi gibi düşünebilirsin, bu anahtar da programın hangi parametrelerle çalışabileceğini söyler.
      */
+    
 }

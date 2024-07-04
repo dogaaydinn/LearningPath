@@ -18,4 +18,21 @@ public class StaticVariable
      * However, notice I said a heap, not the heap;
      * there are in-fact multiple heaps and it's possible that a static variable may not be allocated on "the heap" (i.e. the managed heap).
      */
+    
+    public static void Main()
+    {
+        int number = 10;
+        MyNumber = 20;
+        var @static = "Static";
+        Console.WriteLine(number);
+
+        number = 20;
+        Console.WriteLine(number);
+
+        Console.WriteLine(MyNumber);
+
+        Console.WriteLine(@static);
+    }
+
+    public static int MyNumber { get; set; }
 }

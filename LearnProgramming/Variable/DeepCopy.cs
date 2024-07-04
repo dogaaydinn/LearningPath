@@ -16,6 +16,15 @@ public class DeepCopy
      * Value type veri tipleri birbirlerine assign edilirken default olarak deep copy kullanırlalr.
      */
     
-    //https://borakasmer.medium.com/memory-structure-shallow-and-deep-copy-in-net-5-7ee8b2b26a2
-    //linkteki örneği anla
+    public static void Main()
+    {
+        int number = 10;
+        int copyNumber = number;
+        
+        Console.WriteLine($"number: {number}, copyNumber: {copyNumber}");
+        
+        number = 20;
+        
+        Console.WriteLine($"number: {number}, copyNumber: {copyNumber}");
+    }
 }

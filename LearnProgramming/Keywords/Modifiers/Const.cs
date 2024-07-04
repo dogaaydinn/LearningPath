@@ -60,4 +60,12 @@ public class Const
      * readonly can be used for run-time constants.
      * const can be used for compile-time constants.
      */
+    
+    public static void Main()
+    {
+        const int value = 10;
+        // value = 20; // Error: A const field cannot be assigned to (except in a static constructor or a variable initializer)
+        
+        // const int value2; // Error: A const field requires a value to be provided
+    }
 }

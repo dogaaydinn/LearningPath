@@ -35,4 +35,10 @@ public class Stack
      * method çağrıldığında, stack frame oluşturulur ve method çağrıldığında stack frame üzerine itilir.
      * method çalışmayı bitirdiğinde, stack frame yığından(stack) çıkarılır.
      */
+    
+    public static void Main()
+    {
+        int value = 10;
+        Console.WriteLine(value);
+    }
 }

@@ -1,4 +1,4 @@
-namespace LearnProgramming.Types.ValueTypes;
+namespace LearnProgramming.Types.ValueTypes.PredefinedValues;
 
 public class NullableValueTypes
 {

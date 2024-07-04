@@ -32,4 +32,19 @@ public class Variable
      * Global vs Local Variable
      * https://medium.com/@icodewithben/global-vs-local-variables-bb38790523de
      */
+
+    public void Main()
+    {
+        int number = 10;
+        MyNumber = 20;
+        @static = "Static";
+        Console.WriteLine(number);
+
+        number = 20;
+        Console.WriteLine(number);
+
+        Console.WriteLine(MyNumber);
+
+        Console.WriteLine(@static);
+    }
 }

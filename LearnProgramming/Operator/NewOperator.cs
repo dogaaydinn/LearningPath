@@ -19,4 +19,12 @@ public class NewOperator
      * New can use for 2 different purposes:
      * You can also use the new keyword as a member declaration modifier or a generic type constraint.
      */
+    
+    public static void Main()
+    {
+        int a = new int();
+        bool b = new bool();
+        Console.WriteLine($"Default value of int: {a}");
+        Console.WriteLine($"Default value of bool: {b}");
+    }
 }
