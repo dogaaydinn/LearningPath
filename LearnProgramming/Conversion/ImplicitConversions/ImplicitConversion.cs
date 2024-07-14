@@ -52,6 +52,14 @@ public class ImplicitConversion
         long l = 1234567890123456789;
         int i = (int)l;
         Console.WriteLine(i); // Output: 1234567890123456789
+        
+        // A1. Implicit conversions  (Smaller -> Larger)
+        int x = 100;
+        double y = x;
+
+        // A2.Implicit conversions  (DrivedClass -> BaseClass)
+        ClassDerived D = new ClassDerived();
+        ClassBase B = D;
     }
     
 }

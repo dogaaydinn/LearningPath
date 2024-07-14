@@ -14,4 +14,7 @@ public class Tuple
         Console.WriteLine($"a: {a}, b: {b}");
         
     }
+    
+    //https://www.buraksenyurt.com/post/tek-fotoluk-ipucu-155-c-7-0-tuple-iyilestirmeleri
+    //https://www.buraksenyurt.com/post/tek-fotoluk-ipucu-154-c-7-0-out-iyilestirmesi
 }

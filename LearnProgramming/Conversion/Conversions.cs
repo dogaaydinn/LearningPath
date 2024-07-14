@@ -28,6 +28,18 @@ public class Conversions
         D.Convert.To_X
 
     */
+    
+    /*
+     * //Conversions and casting
+     * //Using Dynamic Types
+     */
+    
+    //Converting between different types
+    //4 Ways of conversion: 
+    //1) Implicit conversions,
+    //2) explicit conversions,
+    //3) User-Defined conversions, 
+    //4) Conversion with helper class
     public static void Main()
     {
         // 1) Implicit conversions: When conversion is legal, allowed

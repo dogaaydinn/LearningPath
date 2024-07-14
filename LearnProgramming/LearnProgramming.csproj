@@ -8,6 +8,16 @@
     </PropertyGroup>
 
     <ItemGroup>
+      <Folder Include="InterviewQuestions\CleanCode\" />
+      <Folder Include="InterviewQuestions\DesignPatterns\" />
+      <Folder Include="InterviewQuestions\Events\" />
+      <Folder Include="InterviewQuestions\GeneralQuestions\" />
+      <Folder Include="InterviewQuestions\GenericTypes\" />
+      <Folder Include="InterviewQuestions\Inheritance\" />
+      <Folder Include="InterviewQuestions\LINQ\" />
+      <Folder Include="InterviewQuestions\Sealed-Classes\" />
+      <Folder Include="InterviewQuestions\SolidCode\" />
+      <Folder Include="InterviewQuestions\Unit-Tests\" />
       <Folder Include="Types\ValueTypes\User-DefinedValues\" />
       <Folder Include="Variable\LocalVariable\" />
     </ItemGroup>

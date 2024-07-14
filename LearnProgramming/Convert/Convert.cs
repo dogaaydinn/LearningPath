@@ -24,6 +24,29 @@ public class Convert
    // Datetime olan bir türü string haricinde bir türe dönüştürmek isterseniz, önce string türüne dönüştürüp daha sonra diğer türe dönüştürebilirsiniz.
    
    // Object olan bir türe bütün değişken türlerini dönüştürebilirsiniz.
+   
+   /*
+Note:
+    A.Implicit conversions:
+        1.No syntax required
+        2.type safe conversions (No data will be lost)
+        3.Example :
+            a.conversions from smaller to larger integral types :(int -> double)
+            b.Conversions from derived classes to base classe
+
+
+    B.Explicit conversions (Cast):
+        1.Syntax required
+        2.NOT type safe conversions (data loss might occur)
+        3.Example :
+            a.conversions from larger to smaller integral types :(Double -> int)
+            b.Conversions from base classe to derived classes
+
+    C.Parse / TryParse
+
+    D.Convert.To_X
+
+*/
 
    private void ConvertExample()
   

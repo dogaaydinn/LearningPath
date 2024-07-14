@@ -23,21 +23,18 @@ public class ImplicitOperator
     {
         public int X { get; set; }
         public int Y { get; set; }
-
+        
         public static implicit operator Lokasyon(Koordinat koordinat)
         {
             return new Lokasyon { X = koordinat.X, Y = koordinat.Y };
         }
+        
     }
 
     public class Lokasyon
     {
         public double X { get; set; }
         public double Y { get; set; }
-        public static implicit operator Lokasyon(Koordinat koordinat)
-        {
-            return new Lokasyon { X = koordinat.X, Y = koordinat.Y };
-        }
        
     }
     
@@ -46,11 +43,10 @@ public class ImplicitOperator
         {
             public double X { get; set; }
             public double Y { get; set; }
-            public static implicit operator Koordinat(Lokasyon2 lokasyon2)
+            public static implicit operator Koordinat2(Lokasyon2 lokasyon2)
                 {
-                    return new Koordinat { X = (int)lokasyon2.X, Y = (int)lokasyon2.Y };
+                    return new Koordinat2 { X = (int)lokasyon2.X, Y = (int)lokasyon2.Y };
                 }
-
             public static implicit operator double (Lokasyon2 lokasyon2)
             {
                 return lokasyon2.X;
@@ -62,18 +58,36 @@ public class ImplicitOperator
         public int Y { get; set; }
     }
     
-    
+    public class Koordinat3
+    {
+        public int X { get; set; }
+        public int Y { get; set; }
+        public static implicit operator double (Koordinat3 koordinat3)
+        {
+            return koordinat3.X * koordinat3.Y;
+        }
+    }
+
+    class Lokasyon3
+        {
+            public double X { get; set; }
+            public double Y { get; set; }
+            
+            public static implicit operator bool(Lokasyon3 lokasyon3)
+            {
+                return true;
+            }
+        }
     
     public static void Main()
     {
+        Lokasyon lokasyon = new Koordinat();
         
-        Koordinat koordinat = new Koordinat { X = 3, Y = 4 };
-        Lokasyon lokasyon = koordinat; // Implicitly converts Koordinat to Lokasyon using the X and Y values
+        Koordinat2 koordinat2 = new Lokasyon2();
+        double i = new Lokasyon2();
 
-        // Lokasyon2 and Koordinat2 do not have a conversion path defined between them
-        // Therefore, we cannot directly convert Koordinat2 to Lokasyon2 or vice versa without defining such a conversion
-
-        Lokasyon2 lokasyon2 = new Lokasyon2 { X = 5.0, Y = 10.0 };
-        double i = lokasyon2; // Implicitly converts Lokasyon2 to double using the X value
+        double d = new Koordinat3();
+        bool b = new Lokasyon3();
+        
     }
 }
