@@ -61,7 +61,7 @@ public class Const
      * const can be used for compile-time constants.
      */
     
-    public static void Main()
+    public void ConstExample()
     {
         const int value = 10;
         // value = 20; // Error: A const field cannot be assigned to (except in a static constructor or a variable initializer)

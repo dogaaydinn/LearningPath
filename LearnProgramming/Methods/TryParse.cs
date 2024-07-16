@@ -29,7 +29,7 @@ Note:
 
 */
     
-    public static void Main()
+    public void TryParseExample()
         {
             string s = "123";
             int result;

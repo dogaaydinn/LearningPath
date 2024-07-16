@@ -29,7 +29,7 @@ public class CapturedVariables
      * This also applies to iterators – iterators and async methods share similar implementation details.
      */
 
-    public static void Main()
+    public static void CapturedVariablesMethod()
     {
       int x = 5;
       Action<int> action = (y) => { Console.WriteLine(x + y); };

@@ -71,7 +71,7 @@ public class ExplicitOperator
         }
     }
     
-    public static void Main()
+    public void ExplicitOperatorExample()
     {
         Lokasyon lokasyon = (Lokasyon)new Koordinat();
         

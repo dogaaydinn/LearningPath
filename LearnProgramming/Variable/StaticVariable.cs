@@ -19,7 +19,7 @@ public class StaticVariable
      * there are in-fact multiple heaps and it's possible that a static variable may not be allocated on "the heap" (i.e. the managed heap).
      */
     
-    public static void Main()
+    public void StaticVariableExample()
     {
         int number = 10;
         MyNumber = 20;

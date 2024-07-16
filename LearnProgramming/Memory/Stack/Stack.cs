@@ -36,9 +36,12 @@ public class Stack
      * method çalışmayı bitirdiğinde, stack frame yığından(stack) çıkarılır.
      */
     
-    public static void Main()
+    public void StackExample()
     {
-        int value = 10;
-        Console.WriteLine(value);
+     int num = 5;
+     int num2 = num++ * 4;
+     Console.WriteLine(num2); // Output: 20
+
+
     }
 }

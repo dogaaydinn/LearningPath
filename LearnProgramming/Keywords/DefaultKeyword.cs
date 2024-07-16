@@ -8,7 +8,7 @@ public class DefaultKeyword
     bool x =default;
     int y = default;
     
-    public static void Main()
+    public void DefaultKeywordExample()
     {
         DefaultKeyword defaultKeyword = new DefaultKeyword();
         Console.WriteLine($"Default value of bool: {defaultKeyword.x}");

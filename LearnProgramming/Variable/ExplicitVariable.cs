@@ -21,7 +21,7 @@ public class ExplicitVariable
        Implicit 
        var lstObjects = GetContractContactInfo();
      */
-    public static void main(string[] args)
+    public void ExplicitVariableMethod()
     {
         int a = 10;
         int b = 20;

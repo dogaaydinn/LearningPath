@@ -5,7 +5,7 @@ public class Try_Catch
     /*
      * Try-Catch is a way to handle exceptions in C#.
      */
-    public static void Main()
+    public void TryCatchExample()
     
     {
         string input = "1234";

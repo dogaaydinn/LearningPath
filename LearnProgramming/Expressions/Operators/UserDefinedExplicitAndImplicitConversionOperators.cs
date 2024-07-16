@@ -30,7 +30,7 @@ public class UserDefinedExplicitAndImplicitConversionOperators
 
         public static class CustomConversions
         {
-            public static void Main()
+            public static void CustomConversionsExample()
             {
                 var customNum = new CustomNumber(5);
 

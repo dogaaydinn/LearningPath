@@ -79,7 +79,7 @@ public class ImplicitOperator
             }
         }
     
-    public static void Main()
+    public void ImplicitOperatorExample()
     {
         Lokasyon lokasyon = new Koordinat();
         

@@ -8,7 +8,7 @@ public class ShallowCopy
      * Bellekte birden fazla referansın aynı değeri işaret etmesi durumudur.
      */
     
-    public void Main()
+    public static void ShallowCopyMethod()
     {
         int[] numbers = {1, 2, 3, 4, 5};
         int[] copyNumbers = numbers;

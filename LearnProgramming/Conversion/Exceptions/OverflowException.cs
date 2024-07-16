@@ -6,7 +6,7 @@ public class OverflowException : Exception
      Bir dönüştürme işlemi hedef veri türünün aralığı dışında bir değerle sonuçlandığında oluşur.
      */
 
-    public static void Main()
+    public void OverflowExceptionExample()
     {
         int number = int.MaxValue;
         try

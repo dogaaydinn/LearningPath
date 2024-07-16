@@ -14,7 +14,7 @@ public class ExplicitConversion
      */
     
     
-    public static void Main()
+    public void ExplicitConversionExample()
     {
         double x = 1234.7;
         int a;

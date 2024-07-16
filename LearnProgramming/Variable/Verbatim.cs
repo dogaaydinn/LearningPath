@@ -8,7 +8,7 @@ public class Verbatim
   * Verbatim stringlerde kaçış dizileri işlenmez.
   */
 
- public static void Main()
+ public static void VerbatimMethod()
  {
   string verbatimString = @"Hello, \nWorld!";
   Console.WriteLine(verbatimString);

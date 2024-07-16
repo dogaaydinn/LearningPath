@@ -33,7 +33,7 @@ public class ImplicitlyTypedLocalVariables
     // var ivalue = 20, a = 30; : // Error: not allowed to declare multiple var in a single statement
     // var ivalue; // Error: Implicitly-typed local variables must be initialized
 
-    public static void Main()
+    public void ImplicitlyTypedLocalVariablesExample()
      {
          // Implicitly typed local variables
          var value = 10; // int

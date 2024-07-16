@@ -7,7 +7,7 @@ public class WhatAreTheDifferencesBetweenRefAndOutKeywords
      */
 
 
-    public static void Main()
+    public void Example()
     {
         void Method(ref int refArgument)
         {

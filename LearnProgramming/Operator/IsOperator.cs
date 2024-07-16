@@ -6,6 +6,8 @@ public class IsOperator
      * Explicit dönüşüm işlemine başlamadan önce, is operatörü ile bir nesnenin belirli bir türle uyumluluğunu kontrol etmek için kullanılabilir ve dönüştürme işlemini gerçekleştirmeden önce güvenliği sağlayabilirsiniz.
      */
     
+    //boxinge tabi tutulan bir değerin türünü öğrenmek için kullanılır.
+    //sonucunda true veya false döner.
     
     public void IsOperatorExample()
     {

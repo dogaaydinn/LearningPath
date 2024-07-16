@@ -20,7 +20,7 @@ public class Heap
      * Managed Heap
      * static variable ve object'ler managed heap'te tutulur.
      */
-    public static void Main()
+    public void HeapExample()
     {
         // The heap is used to store objects
         object obj = new object();

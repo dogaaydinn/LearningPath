@@ -20,7 +20,7 @@ public class NewOperator
      * You can also use the new keyword as a member declaration modifier or a generic type constraint.
      */
     
-    public static void Main()
+    public void NewOperatorExample()
     {
         int a = new int();
         bool b = new bool();

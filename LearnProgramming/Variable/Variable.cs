@@ -33,7 +33,7 @@ public class Variable
      * https://medium.com/@icodewithben/global-vs-local-variables-bb38790523de
      */
 
-    public void Main()
+    public void VariableMethod()
     {
         int number = 10;
         MyNumber = 20;

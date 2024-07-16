@@ -16,7 +16,7 @@ public class DeepCopy
      * Value type veri tipleri birbirlerine assign edilirken default olarak deep copy kullanırlalr.
      */
     
-    public static void Main()
+    public static void DeepCopyMethod()
     {
         int number = 10;
         int copyNumber = number;

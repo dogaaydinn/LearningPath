@@ -4,7 +4,7 @@ namespace LearnProgramming.Conversion.ExplicitConversions;
 
 public class ExplicitConversions
 {
-    public static void Main()
+    public void ExplicitConversionsExample()
     {
         // Explicit conversions
         // 1) Implicit conversions, 2) explicit conversions, 3) User-Defined conversions and 4) Conversion with helper class

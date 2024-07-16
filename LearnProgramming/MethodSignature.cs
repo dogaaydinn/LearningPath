@@ -17,4 +17,10 @@ public class MethodSignature
     /*
      *Bir sınıf içerisinde aynı imzaya sahip yalnızca bir method tanımlanabilir.
      */
+    
+    /*
+      public void Method1() { }
+      public void Method1() { } // Error: Method already defined in the class
+     */
+
 }

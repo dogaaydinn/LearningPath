@@ -7,7 +7,7 @@ public class InvalidCastException
      * Bu istisna, geliştiriciler bir nesnenin belirli bir türde olduğunu uygun bir kontrol yapmadan varsaydıklarında yaygın olarak görülür.
      */
 
-    public static void Main()
+    public void InvalidCastExceptionExample()
     {
         object obj = "1234";
         int number = (int)obj; // InvalidCastException

@@ -14,4 +14,17 @@ public class OperatorOverloading
      -aynı isimde ancak farklı imzalara sahip iki yönteminiz olduğunda gerçekleşen şeydir. 
      -Derleme zamanında derleyici, argümanların derleme zamanı türlerine ve yöntem çağrısının hedefine göre hangisini çağıracağını belirler. 
      */
+    
+    
+    /*
+     * Operator Overloading nedir?
+     * kullanıcı tanımlı türler üzerinde operatörlerin davranışını özelleştirilmesine olanak sağlar.
+     * Bu, sınıf veya yapılar için standart C# operatörlerinin (örneğin, +, -, *, /) işlevselliğini değiştirme veya genişletme anlamına gelir.
+     * Operatör overloading sayesinde, nesne tabanlı programlamada matematiksel ve mantıksal işlemleri kendi tanımladığınız türler üzerinde gerçekleştirebilirsiniz.
+     */
+    
+    
+    /*
+     * operator overloading allows you to "redifine" or "overload" the built-in operators (like +, -, *, etc.) for custom data types.
+     */
 }

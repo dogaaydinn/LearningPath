@@ -17,7 +17,7 @@ public class IdentityConversions
      Identity conversion, C# dilinde, bir değerin aynı türe dönüştürülmesi anlamına gelir. Bu, genellikle derleyici tarafından otomatik olarak gerçekleştirilen ve herhangi bir çalışma zamanı maliyeti olmayan bir işlemdir. Örneğin, bir int türünden bir değişkeni yine int türüne dönüştürmek bir kimlik dönüşümüdür. Bu tür dönüşümler genellikle kodun okunabilirliğini artırmak veya belirli bir API'nin tür gereksinimlerini karşılamak için açıkça yapılır.
      */
     
-    public static void Main()
+    public void IdentityConversionsExample()
     {
      // Example 1: Converting between a variable and itself
      int number = 42;

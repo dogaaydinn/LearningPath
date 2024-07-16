@@ -40,7 +40,7 @@ public class Conversions
     //2) explicit conversions,
     //3) User-Defined conversions, 
     //4) Conversion with helper class
-    public static void Main()
+    public void ConversionsExample()
     {
         // 1) Implicit conversions: When conversion is legal, allowed
         int i = 42;

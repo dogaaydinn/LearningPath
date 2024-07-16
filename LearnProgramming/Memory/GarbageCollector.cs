@@ -13,7 +13,7 @@ public class GarbageCollector
      * The GC is responsible for managing the memory of the managed code.
      */
 
-    public static void Main()
+    public void GarbageCollectorExample()
     {
         // The garbage collector is responsible for managing the memory of the managed code
         object obj = new object();

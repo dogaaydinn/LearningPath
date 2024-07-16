@@ -45,7 +45,7 @@ public class ImplicitConversion
 
 
      */
-    public static void Main()
+    public void ImplicitConversionExample()
     {
         // Implicit conversion. A long can
         // hold any value an int can hold, and more!

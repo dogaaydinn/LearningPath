@@ -22,10 +22,22 @@ public class ImplicitVariable
        var lstObjects = GetContractContactInfo();
      */
     
-    public static void main(string[] args)
+    public void ImplicitVariableExample()
     {
-        Boxing.BoxingAndUnboxing();
-        ImplicitVariable.main(args);
+        //Implicit Variable
+        var i = 5;
+        var s = "Hello";
+        var d = 1.0;
+        var numbers = new[] {0, 1, 2, 3, 4, 5};
+        
+        Console.WriteLine("i: {0}", i);
+        Console.WriteLine("s: {0}", s);
+        Console.WriteLine("d: {0}", d);
+        
+        foreach (var number in numbers)
+        {
+            Console.WriteLine(number);
+        }
     }
 
 }
