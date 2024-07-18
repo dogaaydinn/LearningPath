@@ -2,6 +2,9 @@ namespace LearnProgramming.Variable;
 
 public class Variable
 {
+    //TODO:Açıklama ve örnek ekle.
+    //TODO: Türkçe ve İngilizce ekle.
+    
     //Değişken Adlamlandırması
     //Bir scope içerisinde aynı isimde değişken birden fazla tanımlanamaz.
     

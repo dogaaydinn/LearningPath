@@ -3,8 +3,16 @@ namespace LearnProgramming.Expressions;
 public class TuplePattern
 {
     /*
+ -Tuple Patterns
+   *Tuple patterns allow you to match on the structure of tuples
+ */
+    //TODO:Açıklama ve örnek ekle.
+    //TODO: Türkçe ve İngilizce ekle.
+    /*
      Switch yapılanmasını Tuple nesnelerini kontrol edebilecek şekilde hem standart hem de yeni yapılanma ile kullanabiliriz.
      */
+    //TODO:Açıklama ve örnek ekle.
+    //TODO: Türkçe ve İngilizce ekle.
     
     public void TuplePatternExample()
     {

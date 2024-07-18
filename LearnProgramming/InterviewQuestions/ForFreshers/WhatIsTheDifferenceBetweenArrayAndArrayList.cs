@@ -9,4 +9,6 @@ public class WhatIsTheDifferenceBetweenArrayAndArrayList
        All items in an array are of the same datatype while all the items in an ArrayList can be of the same or different data types.
        While arrays cannot accept null, ArrayList can accept null values.
      */
+    //TODO:Açıklama ve örnek ekle.
+    //TODO: Türkçe ve İngilizce ekle.
 }

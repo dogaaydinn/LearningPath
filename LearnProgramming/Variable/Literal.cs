@@ -2,6 +2,9 @@ namespace LearnProgramming.Variable;
 
 public class Literal
 {
+    //TODO:Açıklama ve örnek ekle.
+    //TODO: Türkçe ve İngilizce ekle.
+    
     //Literal Düzenleme
     /*
      * kompleks sayısal ifadeleri okunabilir hale getirmeye yardımcı olur.

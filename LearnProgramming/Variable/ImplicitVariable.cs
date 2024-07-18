@@ -2,6 +2,9 @@ namespace LearnProgramming.Variable;
 
 public class ImplicitVariable
 {
+    //TODO:Açıklama ve örnek ekle.
+    //TODO: Türkçe ve İngilizce ekle.
+    
     /*
      açıkça ifade edilmese de ima edilen.
      */

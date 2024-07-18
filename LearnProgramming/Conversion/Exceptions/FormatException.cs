@@ -6,6 +6,8 @@ public class FormatException : Exception
      Bir değerin biçimi, amaçlanan dönüştürme türü için geçersiz olduğunda oluşur.
       Bu, giriş dizesi uygun bir sayısal formatta olmadığında int.Parse gibi ayrıştırma yöntemlerinde yaygındır.
      */
+    
+    //TODO: İngilizce ekle
     public void FormatExceptionExample()
     {
         string input = "1234";

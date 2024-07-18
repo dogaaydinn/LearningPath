@@ -34,7 +34,8 @@ public class Const
      * Buna ek olarak bugün const olarak tanımladığım değişkeni değiştirmek istediğimde (.net core - vs - debug mode) kodu tekrardan derlememi istedi, değişkeni daha sonra readonly yaptığımda buna gerek kalmadığını gördüm.
      */
     #endregion
-    
+    //TODO:Açıklama ve örnek ekle.
+    //TODO: Türkçe ve İngilizce ekle.
     
     /*
      * declaration nedir?

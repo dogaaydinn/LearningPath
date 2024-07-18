@@ -6,6 +6,8 @@ public class NullReferenceException
      Null olan bir türdeki bir üyeye (yöntem veya özellik gibi) erişilmeye çalışıldığında oluşur. 
      Bu, tür dönüştürme başarısız olduğunda ve düzgün şekilde kontrol edilmediğinde meydana gelebilir.
      */
+    
+    //TODO: İngilizce ekle
     public void NullReferenceExceptionExample()
     {
         object obj = null;

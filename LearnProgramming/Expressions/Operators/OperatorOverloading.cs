@@ -2,6 +2,8 @@ namespace LearnProgramming.Expressions.Operators;
 
 public class OperatorOverloading
 {
+ 
+ //TODO: OOP sonrası okunacak.
     //https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/operators/operator-overloading
     
     //https://medium.com/@evren.aktas/c-da-operat%C3%B6r-overloading-42ef9362e8a2
@@ -23,7 +25,7 @@ public class OperatorOverloading
      * Operatör overloading sayesinde, nesne tabanlı programlamada matematiksel ve mantıksal işlemleri kendi tanımladığınız türler üzerinde gerçekleştirebilirsiniz.
      */
     
-    
+    //TODO: İngilizce ekle,türkçe ekle
     /*
      * operator overloading allows you to "redifine" or "overload" the built-in operators (like +, -, *, etc.) for custom data types.
      */

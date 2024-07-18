@@ -2,6 +2,9 @@ namespace LearnProgramming.Operator;
 
 public class NullCoalescingOperators
 {
+    //TODO:Açıklama ve örnek ekle.
+    //TODO: Türkçe ve İngilizce ekle.
+    
     /*Null Coalescing Operator (??)
      * Değişkenin değerinin null olma iihtimaline karşı farklı bir değer atamak için kullanılır.
      */

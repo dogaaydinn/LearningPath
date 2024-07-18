@@ -13,6 +13,8 @@ public class IdentityConversions
      * *Aynı genel(generic) tipten inşa edilen tipler arasında, karşılık gelen her bir tip argümanı arasında bir özdeşlik dönüşümü varsa.
      */
     
+    //TODO: İngilizce ekle
+    
     /*
      Identity conversion, C# dilinde, bir değerin aynı türe dönüştürülmesi anlamına gelir. Bu, genellikle derleyici tarafından otomatik olarak gerçekleştirilen ve herhangi bir çalışma zamanı maliyeti olmayan bir işlemdir. Örneğin, bir int türünden bir değişkeni yine int türüne dönüştürmek bir kimlik dönüşümüdür. Bu tür dönüşümler genellikle kodun okunabilirliğini artırmak veya belirli bir API'nin tür gereksinimlerini karşılamak için açıkça yapılır.
      */

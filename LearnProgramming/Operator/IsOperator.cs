@@ -2,6 +2,9 @@ namespace LearnProgramming.Operator;
 
 public class IsOperator
 {
+    //TODO:Açıklama ve örnek ekle.
+    //TODO: Türkçe ve İngilizce ekle.
+    
     /*
      * Explicit dönüşüm işlemine başlamadan önce, is operatörü ile bir nesnenin belirli bir türle uyumluluğunu kontrol etmek için kullanılabilir ve dönüştürme işlemini gerçekleştirmeden önce güvenliği sağlayabilirsiniz.
      */

@@ -2,6 +2,9 @@ namespace LearnProgramming.Solution;
 
 public class Compiler
 {
+ //TODO:Açıklama ve örnek ekle.
+ //TODO: Türkçe ve İngilizce ekle.
+ 
     /*
      * Compiler nedir?
      * Derleyici, programlama dilindeki kodların makine tarafından okunabilir ve işlenebilir hale getirilmesi sürecidir.
@@ -48,6 +51,7 @@ public class Compiler
      * The key to coding for best performance is make the code maintainable and natural first. More often than not this will be optimised by your compiler into well performing code, because the compiler has been designed to recognize these normal structures and optimise them the best way it can.
      * Performance test your code when it is finished and look for a bottleneck. Then spend time reviewing this bottleneck to see if you can optimise it. This will give you the best performance improvement for your time. Don't waste time early on in the project trying to optimise little things until you know they have a big effect on performance.
      */
+    //TODO: Kurs bitimi kontrol edilecek.
     
     /*Öneriler
      I always regarded the book Effective C#: 50 Specific Ways to Improve Your C# as a good book showing you how to write better code in C#; for example, it explains why you should use foreach instead of for when iterating over a collection.

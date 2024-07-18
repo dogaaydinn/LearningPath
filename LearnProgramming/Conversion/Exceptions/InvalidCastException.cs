@@ -6,7 +6,8 @@ public class InvalidCastException
      * Uyumsuz türler arasında explicit cast yapılmaya çalışıldığında ortaya çıkar.
      * Bu istisna, geliştiriciler bir nesnenin belirli bir türde olduğunu uygun bir kontrol yapmadan varsaydıklarında yaygın olarak görülür.
      */
-
+    
+    //TODO: İngilizce ekle
     public void InvalidCastExceptionExample()
     {
         object obj = "1234";

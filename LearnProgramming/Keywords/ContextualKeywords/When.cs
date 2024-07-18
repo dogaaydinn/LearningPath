@@ -2,12 +2,14 @@ namespace LearnProgramming.Keywords.ContextualKeywords;
 
 public class When
 {
+    
+    //TODO: OOP sonrası okunacak.
     // https://medium.com/@alexandre.malavasi/quick-tip-when-can-i-use-when-in-c-aabdb449f62c
     //https://code-maze.com/csharp-when-keyword-handling-exceptions/
     // https://stackify.com/csharp-exception-handling-best-practices/
     
-    
-    
+    //TODO:Açıklama ve örnek ekle.
+    //TODO: Türkçe ve İngilizce ekle.
     /*
      -Catch Clause Tests:
        
@@ -60,7 +62,7 @@ public class When
         }
 
         // Incorrect usage
-        switch (true)
+       /* switch (true)
         {
             case 1 > 0:
                 Console.WriteLine("Condition met");
@@ -72,6 +74,7 @@ public class When
                 Console.WriteLine("Condition not met");
                 break;
         }
-
+       
+    */
     }
 }

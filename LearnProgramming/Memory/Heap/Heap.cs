@@ -6,7 +6,8 @@ public class Heap
      * The heap is the runtime's data structure that stores all the objects created at runtime.
      * The heap is a large pool of memory that is shared by all threads in the application.
      */
-    
+    //TODO:Açıklama ve örnek ekle.
+    //TODO: Türkçe ve İngilizce ekle.
     /*
      * Heap baştan, sondan veya rastgele bir sırayla kullanılabilir.
      */

@@ -2,6 +2,9 @@ namespace LearnProgramming.Solution;
 
 public class DotnetClı
 {
+    //TODO:Açıklama ve örnek ekle.
+    //TODO: Türkçe ve İngilizce ekle.
+    
     /*
      * Dotnet CLI, komut satırı arayüzü tabanlı bir yazılım geliştirme aracıdır. Proje oluşturma, güncelleme, derleme ve yayınlama gibi işlemleri kolaylaştırır.
      * Komut satırı arayüzü, programlama sürecinde yazılan kodu destekleyen bir asistan görevi görür ve görsel arayüz gerektirmeyen işlemleri kolaylaştırır.

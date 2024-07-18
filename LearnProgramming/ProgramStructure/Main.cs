@@ -2,6 +2,9 @@ namespace LearnProgramming.ProgramStructure;
 
 public class Main
 {
+ //TODO:Açıklama ve örnek ekle.
+ //TODO: Türkçe ve İngilizce ekle.
+ 
  /*"static void Main(string[] args)"
   * C# satırı da bir programda ne olup bittiğini kontrol eden anahtar gibidir.
   */

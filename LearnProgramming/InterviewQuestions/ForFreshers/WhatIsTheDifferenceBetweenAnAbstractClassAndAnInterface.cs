@@ -8,4 +8,6 @@ public class WhatIsTheDifferenceBetweenAnAbstractClassAndAnInterface
        Since abstract classes can have both abstract and non-abstract methods, we need to use the Abstract keyword to declare abstract methods. But in the interface, there is no such need.
        An abstract class has constructors while an interface encompasses none. 
      */
+    //TODO:Açıklama ve örnek ekle.
+    //TODO: Türkçe ve İngilizce ekle.
 }

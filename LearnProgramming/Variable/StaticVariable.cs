@@ -2,6 +2,8 @@ namespace LearnProgramming.Variable;
 
 public class StaticVariable
 {
+    //TODO:Açıklama ve örnek ekle.
+    //TODO: Türkçe ve İngilizce ekle.
     /*
      * You must be careful when you use Static variables.
      * They are stored on the Managed Heap, not the Stack when the type is first referenced.

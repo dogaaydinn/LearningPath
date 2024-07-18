@@ -7,6 +7,7 @@ public class UsingConstructor
      1- constructor Person instance ı aldığını varsayarsak; constructor içerisine veya constructor parametreleri içerisinde Person instance ı alarak bu instance ın property lerini kullanabiliriz.
      2- static method kullanarak da Person instance ı alabiliriz.
      */
+    //TODO: Türkçe ekle
     
     public class Person
     {

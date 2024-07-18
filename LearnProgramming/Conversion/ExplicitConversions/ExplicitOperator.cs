@@ -10,6 +10,8 @@ public class ExplicitOperator
      * !!!Bir sınıf içerisinde aynı işleve sahip hem implicit hem de explicit metot bulunamaz…
      */
     
+    //TODO: İngilizce ekle
+    
     public class Koordinat
     {
         public int X { get; set; }

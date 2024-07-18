@@ -2,6 +2,9 @@ namespace LearnProgramming;
 
 public class MethodSignature
 {
+    //TODO:Açıklama ve örnek ekle.
+    //TODO: Türkçe ve İngilizce ekle.
+    
     /*
      * Method İmzası nedir
      1- Methodun adı

@@ -2,7 +2,8 @@ namespace LearnProgramming.Variable;
 
 public class Boxing
 {
-    
+    //TODO:Açıklama ve örnek ekle.
+    //TODO: Türkçe ve İngilizce ekle.
     /*
      * Object türdeki bir değişkene herhangi bir türdeki değeri göndermek Boxing olarak nitelendirilir.
      */

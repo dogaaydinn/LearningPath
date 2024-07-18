@@ -2,6 +2,9 @@ namespace LearnProgramming.Operator;
 
 public class CastOperator
 {
+    //TODO:Açıklama ve örnek ekle.
+    //TODO: Türkçe ve İngilizce ekle.
+    
     /*
      1-unboxing
      2-explicit

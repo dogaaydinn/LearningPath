@@ -2,6 +2,9 @@ namespace LearnProgramming.Variable;
 
 public class ExplicitVariable
 {
+    //TODO:Açıklama ve örnek ekle.
+    //TODO: Türkçe ve İngilizce ekle.
+    
     /*
      Açıkça ve ayrıntılı olarak belirtilmiş, kafa karışıklığına veya şüpheye yer bırakmayan.
      */

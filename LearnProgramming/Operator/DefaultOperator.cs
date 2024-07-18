@@ -2,6 +2,9 @@ namespace LearnProgramming.Operator;
 
 public class DefaultOperator
 {
+    //TODO:Açıklama ve örnek ekle.
+    //TODO: Türkçe ve İngilizce ekle.
+    
     /*
      * belirtilen türün default değerini döndürür.
      */

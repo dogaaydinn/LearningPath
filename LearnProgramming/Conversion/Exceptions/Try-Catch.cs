@@ -5,6 +5,8 @@ public class Try_Catch
     /*
      * Try-Catch is a way to handle exceptions in C#.
      */
+    
+    //TODO: Türkçe çeviri ekle
     public void TryCatchExample()
     
     {

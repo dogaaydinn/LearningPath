@@ -14,7 +14,8 @@ public class ImplicitOperator
     // Aralarında  ilişki olmayan sınıflar arasında Implicit ve Explicit Conversion yapmak isteniyorsa:
     // 1- Sınıfın içerisinde bir operator overload yazılır.
     // 2- Bu operator overload static olmalıdır.
-    
+     
+    //TODO: İngilizce ekle,türkçe ekle
     
     //Koordinat sınıfını Lokasyon’a implicit çevir,
 

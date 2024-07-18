@@ -5,7 +5,7 @@ public class Tuple
     //Tuple nedir?
     //Bir nesneyi birden fazla değişkenle tanımlamak için kullanılır.
 
-
+//TODO: OOP sonrası okunacak.
     //https://www.buraksenyurt.com/post/tek-fotoluk-ipucu-155-c-7-0-tuple-iyilestirmeleri
     //https://www.buraksenyurt.com/post/tek-fotoluk-ipucu-154-c-7-0-out-iyilestirmesi
     //https://medium.com/@lexitrainerph/c-tuples-journeying-from-basics-to-mastery-9dff7ae8f92d

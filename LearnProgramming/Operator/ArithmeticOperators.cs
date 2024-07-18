@@ -2,6 +2,9 @@ namespace LearnProgramming.Operator;
 
 public class ArithmeticOperators
 {
+    //TODO:Açıklama ve örnek ekle.
+    //TODO: Türkçe ve İngilizce ekle.
+    
     // sayısal işlemler için kullanılan operatörlerdir.
     /*
      -Unary ++ (increment), -- (decrement), + (plus), and - (minus) operators

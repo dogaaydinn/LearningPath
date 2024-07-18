@@ -10,7 +10,10 @@ public class ImplicitlyTypedLocalVariables
      * !!!var, local değişkenlerde kullanıldığında, değişkenin türünü belirlerken, değişkenin türünü belirtmek için kullanılan tür adını belirtmez.
      *  the variable cannot be initialized to null
      */
-
+    
+    //TODO:Açıklama ve örnek ekle.
+    //TODO: Türkçe ve İngilizce ekle.
+    
     /*
       Bir değişkeni var ile bildirdiğinizde(declare), değişkenin türü compiler tarafından  sağ tarafına göre initilaziation yapılır.
        Ancak compilerın türü çıkarabilmesi için, değişkenin kendisine referans vermeyen bir ifadeyle başlatılması gerekir.

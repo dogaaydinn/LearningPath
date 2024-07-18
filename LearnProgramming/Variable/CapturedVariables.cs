@@ -2,6 +2,9 @@ namespace LearnProgramming.Variable;
 
 public class CapturedVariables
 {
+ //TODO:Açıklama ve örnek ekle.
+ //TODO: Türkçe ve İngilizce ekle.
+ 
     /*
      * Anonymous functions, which include lambda expressions, can capture variables from the outer scope.
      * When you declare an anonymous function, it has access to the local variables from the containing method,

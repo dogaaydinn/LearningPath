@@ -2,6 +2,9 @@ namespace LearnProgramming.Operator;
 
 public class Operator
 {
+    //TODO:Açıklama ve örnek ekle.
+    //TODO: Türkçe ve İngilizce ekle.
+    
     /*
      Operator nedir?
      -Operatörler, programlama dillerinde değişkenler üzerinde işlem yapmak amacıyla kullanılan özel sembollerdir.
@@ -12,6 +15,7 @@ public class Operator
     //Operand nedir?
     //Operatörlerin etki ettikleri sabit ya da değişkenlere "operand" denir.
     
+    //TODO: OOP sonrası okunacak.
     
     //https://medium.com/@gustavorestani/c-implicit-and-explicit-operators-a-comprehensive-guide-5e6972cc8671
     

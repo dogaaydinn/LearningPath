@@ -7,7 +7,8 @@ public class GarbageCollector
      * it allocates objects and reclaims objects that are no longer being used
      * - freeing memory for future allocations.
      */
-    
+    //TODO:Açıklama ve örnek ekle.
+    //TODO: Türkçe ve İngilizce ekle.
     /*
      * The GC is a part of the runtime environment, it is not a part of the language.
      * The GC is responsible for managing the memory of the managed code.

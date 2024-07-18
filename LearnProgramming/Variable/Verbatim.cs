@@ -2,6 +2,9 @@ namespace LearnProgramming.Variable;
 
 public class Verbatim
 {
+ //TODO:Açıklama ve örnek ekle.
+ //TODO: Türkçe ve İngilizce ekle.
+ 
  /*
   * Verbatim nedir?
   * Verbatim stringler, stringlerin başına @ işareti koyularak oluşturulan stringlerdir.

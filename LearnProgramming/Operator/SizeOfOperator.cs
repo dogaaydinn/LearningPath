@@ -2,6 +2,9 @@ namespace LearnProgramming.Operator;
 
 public class SizeOfOperator
 {
+    //TODO:Açıklama ve örnek ekle.
+    //TODO: Türkçe ve İngilizce ekle.
+    
     /*
      * Verilen türün bellekte kaç byte yer kapladığını integer olarak gösterir.
      */

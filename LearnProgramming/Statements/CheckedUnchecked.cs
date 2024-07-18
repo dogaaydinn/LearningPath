@@ -2,7 +2,8 @@ namespace LearnProgramming.Statements;
 
 public class CheckedUnchecked
 {
-    
+ //TODO:Açıklama ve örnek ekle.
+ //TODO: Türkçe ve İngilizce ekle.
     /*
     -Varsayılan olarak, integral değerler (int, uint ve long gibi) taştıklarında bir istisna oluşturmazlar.
      - Bunun yerine "sararlar" -- ve bu da muhtemelen istediğimiz bir değer sonucunu vermez.
@@ -26,5 +27,6 @@ public class CheckedUnchecked
      * Aslında program  devam eder overflow durumunda hata vermez bu durumda eylemin sonucundan haberdar olmak için "checked" bloğunu kullanabilirsiniz.
      */
     
-    //TODO: https://www.youtube.com/watch?v=9mBZvDPyE0U
+    //TODO: OOP sonrası izlenecek.
+    // https://www.youtube.com/watch?v=9mBZvDPyE0U
 }

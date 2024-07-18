@@ -9,6 +9,8 @@ public class FunctionMembersGeneral
      !  always members of types and cannot be members of namespaces
      */
     
+    //TODO: İngilizce ekle,türkçe ekle
+    
     /*
      * Function members
       - Methods

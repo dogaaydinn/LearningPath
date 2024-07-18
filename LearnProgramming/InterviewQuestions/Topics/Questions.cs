@@ -2,28 +2,28 @@ namespace LearnProgramming.InterviewQuestions.Topics;
 
 public class Questions
 {
-    
+    //TODO:OOP sonrası linkler okunacak.
     //!!!!!!!!! https://www.simplilearn.com/tutorials/c-sharp-tutorial/c-sharp-interview-questions
     /*
-     -What is attribute in C#? What is it used for?
-     What is the difference between reflection and dynamic?
-     parametre ve argüman arasındaki fark nedir?
-     compiler ve ide arasındaki fark nedir?
-     Explain the difference between ‘Task’ and ‘Thread’
-     What is encapsulation in C#? How is encapsulation implemented?
-      What is a destructor in C#? When should I create a destructor?
-      What are synchronous and asynchronous operations?
-      Explain get and set accessor properties
-      What are the types of serialization?
-      What is a XSD file?
-      How to compile unsafe code?
-      Explain the difference between StringBuilder and String in C#.
-      What is the purpose of the using statement in C#?
-      What are the different types of inheritance in C#?
-      Explain the concept of polymorphism in C# with an example.
-      What is the difference between IEnumerable and IEnumerator in C#?
-      What is the purpose of the async and await keywords in C#?
-      What is the purpose of the using directive in C#?
+      What is attribute in C#? What is it used for?
+      What is the difference between reflection and dynamic?
+      parametre ve argüman arasındaki fark nedir?
+      compiler ve ide arasındaki fark nedir?
+      Explain the difference between ‘Task’ and ‘Thread’
+      What is encapsulation in C#? How is encapsulation implemented?
+       What is a destructor in C#? When should I create a destructor?
+       What are synchronous and asynchronous operations?
+       Explain get and set accessor properties
+       What are the types of serialization?
+       What is a XSD file?
+       How to compile unsafe code?
+       Explain the difference between StringBuilder and String in C#.
+       What is the purpose of the using statement in C#?
+       What are the different types of inheritance in C#?
+       Explain the concept of polymorphism in C# with an example.
+       What is the difference between IEnumerable and IEnumerator in C#?
+       What is the purpose of the async and await keywords in C#?
+       What is the purpose of the using directive in C#?
        Explain the concept of delegates in C# with an example.
        What is the purpose of the sealed keyword in C#?
        Explain the concept of the try, catch, and finally blocks in exception handling.
@@ -59,7 +59,6 @@ public class Questions
        what are the benefits od a deffered execution in LINQ?
        what is jagged arrey and when to prefer over a multi-dimensional array?
        what is a preprocessor directive in C#?
-       
        
      */
 }

@@ -2,6 +2,9 @@ namespace LearnProgramming.Operator;
 
 public class NullableOperatoru
 {
+    //TODO:Açıklama ve örnek ekle.
+    //TODO: Türkçe ve İngilizce ekle.
+    
     /*
  1-değer türlü değişkenler----- not NULLABLE  örnek: int a=null; diyemeyiz
  2- referans türlü değişkenler----- NULLABLE

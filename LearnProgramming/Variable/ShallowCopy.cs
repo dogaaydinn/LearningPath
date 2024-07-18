@@ -2,6 +2,9 @@ namespace LearnProgramming.Variable;
 
 public class ShallowCopy
 {
+    //TODO:Açıklama ve örnek ekle.
+    //TODO: Türkçe ve İngilizce ekle.
+    
     /*
      * Shallow Copy
      * Referans tipli değişkenlerin değer atamalarında değeri çoğaltmak yerine, var olan değeri birden fazla referansla işaretleyerek kopyalama yapılır.

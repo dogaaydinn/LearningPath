@@ -2,6 +2,9 @@ namespace LearnProgramming.Types.ValueTypes;
 
 public class ValueType
 {
+ //TODO:Açıklama ve örnek ekle.
+ //TODO: Türkçe ve İngilizce ekle.
+ 
     /*
      * Value Types
      * Value tipler, değer tipleri olarak adlandırılır.

@@ -6,6 +6,7 @@ public class ImplicitEnumerationConversions
      * Enum türünden int'e ve int'ten Enum türüne dönüşümler yapılabilir.
      */
 
+    //TODO: İngilizce ekle
 
     public void ImplicitEnumerationConversionsMethod()
     {

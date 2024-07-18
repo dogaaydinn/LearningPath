@@ -8,9 +8,7 @@ public class NumericPromotions
     //bu işlem ayrı çalışan bir işlem değildir, operatörlerin operandlarının türlerini uyumlu hale getirmek için otomatik olarak gerçekleştirilir.
     // önceden tanımlanmış(predefined) operatörlere aşırı yük çözümlemesi(overload resolution) uygulamanın bir etkisidir. 
     
-    
-    
-    
+    //TODO: İngilizce ekle
     
     // özellikle kullanıcı tanımlı(user-defned) operatörlerin değerlendirilmesini(evalution) etkilemez, ancak kullanıcı tanımlı operatörler benzer etkiler gösterecek şekilde uygulanabilir.
     

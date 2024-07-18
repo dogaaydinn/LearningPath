@@ -1,7 +1,11 @@
-namespace LearnProgramming;
+namespace LearnProgramming.Operator;
 
 public class Overloading
 {
+    //TODO: OOP sonrası okunacak.
+    //TODO:Açıklama ve örnek ekle.
+    //TODO: Türkçe ve İngilizce ekle.
+    
     // https://medium.com/@lexitrainerph/c-operator-overloading-a-comprehensive-dive-from-fundamentals-to-advanced-concepts-9a02ef0cab46
     //https://blog.stackademic.com/understanding-operator-overloading-in-c-72d5aff44dea
     //https://medium.com/@charlesbayley/introduction-to-c-operator-overloading-d69912f2c648

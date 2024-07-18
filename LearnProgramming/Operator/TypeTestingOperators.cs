@@ -2,6 +2,9 @@ namespace LearnProgramming.Operator;
 
 public class TypeTestingOperators
 {
+    //TODO:Açıklama ve örnek ekle.
+    //TODO: Türkçe ve İngilizce ekle.
+    
     /*
      * Verilen türlerin denetimini veya dönüşümünü yapar.
      */

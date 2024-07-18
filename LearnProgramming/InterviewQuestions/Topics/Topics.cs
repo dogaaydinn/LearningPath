@@ -2,8 +2,12 @@ namespace LearnProgramming.InterviewQuestions.Topics;
 
 public class Topics
 {
- 
+ //TODO:OOP sonrası linkler okunacak.
+ //TODO:Açıklama ve örnek ekle.
+ //TODO: Türkçe ve İngilizce ekle.
  // !!!!https://www.simplilearn.com/tutorials/c-sharp-tutorial/c-sharp-interview-questions
+ //https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF
+ 
     /*
     - Covariance and Contravariance
     - Asynchronous Programming primitives, 
@@ -49,6 +53,7 @@ public class Topics
        
        They're so easy to use. So they seem simple, but they're not. All the complexities lie a level below where we work. So they're hidden really well and a lot of people never really take the time to look.
      */
+    
     /*
      What is the difference between a reference type and a value type?
        
@@ -146,9 +151,5 @@ public class Topics
        
        Depending on what else, can ask about what is REST, how does that differ from a WebAPI, etc.
        
-       
      */
-    
-    
-    //https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF
 }

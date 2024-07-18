@@ -15,6 +15,9 @@ public class HeapStack
      * We can keep variables and objects in two types of memory in C#. We call them Heap (Reference Type) and Stack (Value Type) memory. 
      */
     
+    //TODO:Açıklama ve örnek ekle.
+    //TODO: Türkçe ve İngilizce ekle.
+    
     /*
      * Stack Memory
      * Stack Memory requires a reservation.
@@ -29,6 +32,7 @@ public class HeapStack
      * Dynamic space is allocated at runtime, not compile time. But unfortunately, it is slow.
      */
     
+    //TODO: OOP sonrası okunacak.
     /*
      * !!!!!! https://endjin.com/blog/2022/07/understanding-the-stack-and-heap-in-csharp-dotnet
      */

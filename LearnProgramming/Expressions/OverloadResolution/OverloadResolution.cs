@@ -2,6 +2,8 @@ namespace LearnProgramming.Expressions.OverloadResolution;
 
 public class OverloadResolution
 {
+    //TODO: OOP sonrası okunacak.
+    
     //microsoft : 12.6.4 Overload resolution
     //12.6.4.1 General
     

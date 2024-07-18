@@ -2,6 +2,9 @@ namespace LearnProgramming.Operator;
 
 public class IncrementDecrement
 {
+    //TODO:Açıklama ve örnek ekle.
+    //TODO: Türkçe ve İngilizce ekle.
+    
     /*
      * Artırma ve azaltma operatörleri
      i++;  -------> öncelikle i değerini döndürür, sonra i'yi 1 artırır.

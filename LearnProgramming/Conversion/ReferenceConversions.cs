@@ -9,4 +9,6 @@ public class ReferenceConversions
      * Bu dönüşüm aynı zamanda "downcasting" olarak da adlandırılır.
      * downcasting denmesinin sebebi; dönüşümün her zaman yapılamayabileceği ve runtime da hata alınabileceğinden kaynaklanır.
      */
+    
+    //TODO: İngilizce ekle, örnek ekle
 }

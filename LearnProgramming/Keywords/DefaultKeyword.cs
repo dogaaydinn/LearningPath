@@ -5,6 +5,8 @@ public class DefaultKeyword
     /* Default Keyword
      * içerisine verilen türün varsayılan değerini verir.
      */
+    //TODO:Açıklama ve örnek ekle.
+    //TODO: Türkçe ve İngilizce ekle.
     bool x =default;
     int y = default;
     

@@ -8,6 +8,7 @@ public class WhatIsGarbageCollectionInCSharp
        If the occupied memory by the objects exceeds the pre-set threshold value.
        If the garbage collection method is called
        If your system has low physical memory
-       
      */
+    //TODO:Açıklama ve örnek ekle.
+    //TODO: Türkçe ve İngilizce ekle.
 }

@@ -2,6 +2,8 @@ namespace LearnProgramming.Types.ReferenceTypes.BuiltIn_ReferenceTypes;
 
 public class StringType
 {
+    //TODO:Açıklama ve örnek ekle.
+    //TODO: Türkçe ve İngilizce ekle.
     /*
      * string türü, sıfır veya daha fazla Unicode karakter dizisini temsil eder.
      * Dizeler değişmezdir

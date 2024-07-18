@@ -13,6 +13,8 @@ public class ExplicitConversion
      * Bir double veya float değerini bir integral türüne dönüştürdüğünüzde, bu değer sıfıra doğru en yakın integral değerine yuvarlanır. Elde edilen integral değer hedef türün aralığının dışındaysa, sonuç taşma denetimi bağlamına bağlıdır. Kontrol edilen bir bağlamda, bir OverflowException fırlatılırken, kontrol edilmeyen bir bağlamda sonuç, hedef türün belirtilmemiş bir değeridir.
      */
     
+    //TODO: İngilizce ekle,türkçe ekle
+    
     
     public void ExplicitConversionExample()
     {

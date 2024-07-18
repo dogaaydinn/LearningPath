@@ -2,6 +2,9 @@ namespace LearnProgramming.Types.ValueTypes.PredefinedValues;
 
 public class EnumerationType
 {
+    //TODO:Açıklama ve örnek ekle.
+    //TODO: Türkçe ve İngilizce ekle.
+    
     //Enumeration type
     //"Enum, Enumeration'ın kısaltılmış şeklidir.
     //Enum, değer tipleri oldukları için daha az bellek ve alan tüketirler, yani bellek içinde değer saklarlar.

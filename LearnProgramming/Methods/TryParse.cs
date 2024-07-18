@@ -2,6 +2,9 @@ namespace LearnProgramming.Methods;
 
 public class TryParse
 {
+    //TODO:Açıklama ve örnek ekle.
+    //TODO: Türkçe ve İngilizce ekle.
+    
     /*
      * TryParse yöntemi int, double ve DateTime gibi temel veri türleri için dizeleri dönüştürmenin güvenli bir yoludur.
      * Dönüştürmenin başarılı olup olmadığını belirten bir bool döndürür ve başarılı olması durumunda dönüştürülen değeri çıktı olarak verir.

@@ -2,6 +2,9 @@ namespace LearnProgramming.Variable;
 
 public class DeepCopy
 {
+    //TODO:Açıklama ve örnek ekle.
+    //TODO: Türkçe ve İngilizce ekle.
+    
     /*
      * Deep copy sonucunda eldeki veri çoğalır.
      * Yani, yeni bir bellek alanı oluşturulur ve bu alana kopyalanan veri yazılır.

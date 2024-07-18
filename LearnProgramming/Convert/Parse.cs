@@ -6,6 +6,9 @@ public class Parse
      Parse methodu, string türündeki bir değeri, belirtilen türe dönüştürür.
      */
     /*
+     
+         //TODO: İngilizce ekle,türkçe ekle
+         
 Note:
     A.Implicit conversions:
         1.No syntax required

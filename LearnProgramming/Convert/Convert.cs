@@ -26,6 +26,9 @@ public class Convert
    // Object olan bir türe bütün değişken türlerini dönüştürebilirsiniz.
    
    /*
+    
+    //TODO: İngilizce ekle,türkçe ekle
+    
 Note:
     A.Implicit conversions:
         1.No syntax required

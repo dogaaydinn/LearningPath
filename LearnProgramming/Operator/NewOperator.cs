@@ -2,6 +2,8 @@ namespace LearnProgramming.Operator;
 
 public class NewOperator
 {
+    //TODO:Açıklama ve örnek ekle.
+    //TODO: Türkçe ve İngilizce ekle.
     /*
      C# dilindeki "new" anahtar kelimesinin ve değer tiplerinin (value types) varsayılan değerlerinin nasıl çalıştığı anlatılmak istenmiştir. İşte ana noktalar:
        

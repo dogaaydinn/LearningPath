@@ -8,7 +8,8 @@ public class Stack
      * A stack is a data structure that follows the Last In First Out (LIFO) principle.
      * The last element added to the stack is the first one to be removed.
      */
-    
+    //TODO:Açıklama ve örnek ekle.
+    //TODO: Türkçe ve İngilizce ekle.
     /*
      * the stack stores local variables
      */
@@ -41,7 +42,6 @@ public class Stack
      int num = 5;
      int num2 = num++ * 4;
      Console.WriteLine(num2); // Output: 20
-
 
     }
 }

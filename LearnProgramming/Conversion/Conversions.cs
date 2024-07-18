@@ -5,7 +5,7 @@ public class Conversions
     /*
      * Dönüştürme, bir ifadenin belirli bir türe dönüştürülmesine veya belirli bir türdeymiş gibi işlem görmesine neden olur; ilk durumda dönüştürme, gösterimde bir değişiklik içerebilir. 
      */
-    
+    //TODO: İngilizce ekle,türkçe ekle
     /*
     Note:
         A.Implicit conversions:

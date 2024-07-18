@@ -2,6 +2,9 @@ namespace LearnProgramming.ProgramStructure;
 
 public class TopLevelStatements
 {
+    //TODO:Açıklama ve örnek ekle.
+    //TODO: Türkçe ve İngilizce ekle.
+    
     /*What is boilerplate code?
      * It's code that can be used by many applications/contexts with little or no change.
        

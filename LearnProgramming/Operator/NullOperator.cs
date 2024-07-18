@@ -2,6 +2,9 @@ namespace LearnProgramming.Operator;
 
 public class NullOperator
 {
+    //TODO:Açıklama ve örnek ekle.
+    //TODO: Türkçe ve İngilizce ekle.
+    
     //bir değişkenin türünün null olp olup olmadığını kontrol etmek için kullanılır.
     
     //!!!! bu operatorü sadece null olabilen türlerde kullanabiliriz.

@@ -2,6 +2,9 @@ namespace LearnProgramming.Operator;
 
 public class AsOperator
 {
+    //TODO:Açıklama ve örnek ekle.
+    //TODO: Türkçe ve İngilizce ekle.
+    
     /*
      * As operatörü, birbirleriyle uyumlu referans türleri veya nullable türler arasında dönüşüm yapar.
      */

@@ -10,4 +10,6 @@ public class WhatAreTheTypesOfClassesInCSharp
        Abstract class: Abstract classes are classes that cannot be instantiated where you cannot create objects. Abstract classes work on the OOPS concept of abstraction. Abstraction helps to extract essential details and hide the unessential ones.
        Sealed class: Sealed classes are classes that cannot be inherited. Use the keyword sealed to restrict access to users to inherit that class. 
      */
+    //TODO:Açıklama ve örnek ekle.
+    //TODO: Türkçe ve İngilizce ekle.
 }

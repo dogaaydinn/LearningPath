@@ -4,6 +4,8 @@ namespace LearnProgramming.Conversion.ExplicitConversions;
 
 public class ExplicitConversions
 {
+    
+    //TODO: Açıklama ekle türkçe-ingilizce
     public void ExplicitConversionsExample()
     {
         // Explicit conversions

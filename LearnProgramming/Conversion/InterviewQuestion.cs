@@ -4,6 +4,8 @@ public class InterviewQuestion
 {
     
     // burada implicit mi yoksa explicit mi conversion yapılıyor?
+    
+    //TODO: İngilizce ekle
     public void InterviewQuestionExample()
     {
         int a = 3000;

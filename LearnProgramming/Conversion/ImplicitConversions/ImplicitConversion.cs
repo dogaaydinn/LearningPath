@@ -7,7 +7,7 @@ public class ImplicitConversion
      * Bir sayısal değer kendi türünden daha büyük değer aralığına sahip olan diğer türlere dönüştürülürken, burada herhangi bir işlem yapmamıza gerek kalmayacağı için bu dönüşüme implicit conversion(bilinçsiz tür dönüşümü) denir.
      * Bir sayısal değer kendi türündendaha küçük değer aralığına sahip olan diğer türlere dönüştürülürken, hedef türün ilgili veriyi karşılayamama riskinden dolayı burada herhangi bir işlem yapmamız gerekeceği için bu dönüşüme explicit conversion(bilinçli tür dönüşümü) denir.
      */
-
+   //TODO: İngilizce ekle, türkçe ekle
     /*
      * There are no implicit conversions to the byte and sbyte types. There are no implicit conversions from the double and decimal types.
 

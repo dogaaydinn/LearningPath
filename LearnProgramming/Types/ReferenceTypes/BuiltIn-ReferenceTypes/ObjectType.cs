@@ -2,6 +2,8 @@ namespace LearnProgramming.Types.ReferenceTypes.BuiltIn_ReferenceTypes;
 
 public class ObjectType
 {
+    //TODO:Açıklama ve örnek ekle.
+    //TODO: Türkçe ve İngilizce ekle.
     /*
      * Nesne sınıfı türü, diğer tüm türlerin nihai temel sınıfıdır.
      * C#'taki her tür doğrudan veya dolaylı olarak nesne sınıfı türünden türetilir.

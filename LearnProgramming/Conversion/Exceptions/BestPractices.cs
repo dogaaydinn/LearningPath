@@ -9,4 +9,6 @@ public class BestPractices
      4-Çok çeşitli güvenli dönüştürmeler için Convert sınıfını kullanın.
      5-Bir dönüştürme girişiminde bulunmadan önce her zaman girdiyi doğrulayın.
      */
+    
+    //TODO: İngilizce ekle
 }

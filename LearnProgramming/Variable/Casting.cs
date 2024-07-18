@@ -2,6 +2,8 @@ namespace LearnProgramming.Variable;
 
 public class Casting
 {
+    //TODO: OOP sonrası okunacak.
+    
     /*
      https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/types/casting-and-type-conversions
      

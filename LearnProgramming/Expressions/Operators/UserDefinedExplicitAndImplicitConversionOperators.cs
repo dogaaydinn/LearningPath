@@ -9,6 +9,7 @@ public class UserDefinedExplicitAndImplicitConversionOperators
          * you can define checked explicit conversion operators(go aritmetic operato)
          * You also use the operator keyword to overload a predefined C# operator.
          */
+        //TODO: türkçe ekle
         public readonly struct CustomNumber
         {
             private readonly byte number;
