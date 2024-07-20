@@ -7,6 +7,7 @@ public class DefaultKeyword
      */
     //TODO:Açıklama ve örnek ekle.
     //TODO: Türkçe ve İngilizce ekle.
+    
     bool x =default;
     int y = default;
     

@@ -1,4 +1,4 @@
-namespace LearnProgramming.Expressions;
+namespace LearnProgramming.Expressions.Pattern.C_8;
 
 public class SwitchExpression
 {

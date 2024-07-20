@@ -1,4 +1,4 @@
-namespace LearnProgramming.Expressions.Pattern;
+namespace LearnProgramming.Expressions.Pattern.C_7;
 
 public class DeclarationPattern
 {
