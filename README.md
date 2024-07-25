@@ -59,7 +59,6 @@ I watch it again in order to understand better the c# language. I take short not
 - *🪳Coding standards and practices**:
 - *🦟Common design patterns in C#**:
 
-Credits
 ## Credits
 
 - [@gncyyldz](https://github.com/gncyyldz) Thank you for being the best instructor and sharing your knowledge.
