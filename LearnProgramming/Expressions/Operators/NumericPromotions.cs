@@ -21,4 +21,8 @@ public class NumericPromotions
        double operator *(double x, double y);
        decimal operator *(decimal x, decimal y);
      */
+
+
+    
+    
 }

@@ -57,7 +57,8 @@ public class SwitchExpression
       DayOfWeek.Thursday => "Today is Thursday",
       DayOfWeek.Friday => "Today is Friday",
       DayOfWeek.Saturday => "Today is Saturday",
-      DayOfWeek.Sunday => "Today is Sunday"
+      DayOfWeek.Sunday => "Today is Sunday",
+      _ => "Default"
      };
      Console.WriteLine(message);
 

@@ -11,4 +11,14 @@ public class BestPractices
      */
     
     //TODO: İngilizce ekle
+
+    public static void  Main()
+    {
+        int adar = 5;
+        double adarDouble = adar;
+        char adarChar = 'a';
+        int adarString = adarChar;
+        char maxChar = (char)65000;
+        Console.WriteLine(maxChar);
+    }
 }

@@ -1,3 +1,7 @@
+using System.Data;
+using System.Drawing;
+using LearnProgramming.Expressions.Pattern.C_8;
+
 namespace LearnProgramming.Keywords;
 
 public class DefaultKeyword

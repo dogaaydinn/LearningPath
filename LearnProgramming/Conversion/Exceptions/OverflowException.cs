@@ -7,17 +7,9 @@ public class OverflowException : Exception
      */
     //TODO: İngilizce ekle
 
-    public void OverflowExceptionExample()
+    public static void Main()
     {
-        int number = int.MaxValue;
-        try
-        {
-            number++;
-        }
-        catch (OverflowException e)
-        {
-            Console.WriteLine("Value is too large");
-        }
-        Console.WriteLine(number);
+        Console.WriteLine("as");
+       Main();
     }
 }

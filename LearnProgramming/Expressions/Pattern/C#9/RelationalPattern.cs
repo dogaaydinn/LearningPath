@@ -20,6 +20,7 @@ public class RelationalPattern
     {
         int number = 42;
 
+        
         if (number is > 0 and < 100)
         {
             Console.WriteLine("Number is between 0 and 100.");

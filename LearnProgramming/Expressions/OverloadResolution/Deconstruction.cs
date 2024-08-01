@@ -1,6 +1,6 @@
 namespace LearnProgramming.Expressions.OverloadResolution;
 
-public class Deconstruction
+public class Decostruction
 {
     
 }

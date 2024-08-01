@@ -4,7 +4,7 @@ public class ValueType
 {
  //TODO:Açıklama ve örnek ekle.
  //TODO: Türkçe ve İngilizce ekle.
- 
+ //https://medium.com/nerd-for-tech/c-types-value-reference-explained-fc8b9014285d
     /*
      * Value Types
      * Value tipler, değer tipleri olarak adlandırılır.

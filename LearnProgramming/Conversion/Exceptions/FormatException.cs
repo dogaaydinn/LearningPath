@@ -8,9 +8,10 @@ public class FormatException : Exception
      */
     
     //TODO: İngilizce ekle
-    public void FormatExceptionExample()
+    public static void Main()
     {
-        string input = "1234";
+        string input = "adar";
+        
         int number = 0;
         try
         {
@@ -20,9 +21,9 @@ public class FormatException : Exception
         {
             Console.WriteLine("Input is not a number");
         }
-        catch (Exception e)
+        finally
         {
-            Console.WriteLine("An error occurred");
+            Console.WriteLine("This code block always executes.");
         }
         Console.WriteLine(number);
     }

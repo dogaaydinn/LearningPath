@@ -20,7 +20,7 @@ public class SwitchStatementsWithPatterns
     {
         int dayOfWeek = 3;
 
-        string dayName = dayOfWeek switch
+        var dayName = dayOfWeek switch
         {
             1 => "Pazartesi",
             2 => "Salı",

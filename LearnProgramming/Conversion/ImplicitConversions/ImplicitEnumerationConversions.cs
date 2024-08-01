@@ -21,7 +21,7 @@ public class ImplicitEnumerationConversions
 
     public enum DayOfWeek
     {
-        Monday = 1, // Assigning explicit starting value
+        Monday  // Assigning explicit starting value
     }
     
 }

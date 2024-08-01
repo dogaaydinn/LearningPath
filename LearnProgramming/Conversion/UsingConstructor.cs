@@ -8,6 +8,7 @@ public class UsingConstructor
      2- static method kullanarak da Person instance ı alabiliriz.
      */
     //TODO: Türkçe ekle
+    //TODO: oop sonrası sözlü
     
     public class Person
     {
