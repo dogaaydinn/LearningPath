@@ -7,6 +7,7 @@ public class Boxing
     /*
      * Object türdeki bir değişkene herhangi bir türdeki değeri göndermek Boxing olarak nitelendirilir.
      */
+    //
 
     //Boxing and Unboxing
     //Boxing: Process of taking value type, placing it in new object on heap, storing ref to it on stack

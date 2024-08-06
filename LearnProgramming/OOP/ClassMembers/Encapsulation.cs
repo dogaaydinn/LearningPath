@@ -7,4 +7,5 @@ public class Encapsulation
      * 
      */
     //https://emrecelen.com.tr/c-sharp-kapsulleme-nedir/
+    //https://medium.com/@bilgehansafaonbasioglu/c-oop-object-oriented-programming-genel-96c2c243c155
 }
